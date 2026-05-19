@@ -29,7 +29,7 @@
 </p>
 
 
-## 🐍 Contribution Snake
+##
 
 <p align="center">
   <strong>Guerreero</strong>
