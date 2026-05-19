@@ -19,11 +19,11 @@
 ## 🌎 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/TU_USUARIO" target="_blank">
+  <a href="https://github.com/GuerreeroDev" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   
-  <a href="https://linkedin.com/in/TU_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/GuerreeroDev" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
