@@ -27,8 +27,9 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
-##
+
+## 📭 Contact
 
 <p align="center">
-  <strong>Guerreero</strong>
+  <strong>guerreerodev@gmail.com</strong>
 </p>
