@@ -13,7 +13,7 @@
 
 ### 💻 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwaindcss" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwaind" />
 </p>
 
 ## 🌎 Connect With Me
