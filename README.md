@@ -16,7 +16,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwindcss" />
 </p>
 
-## 🌎 Connect With Me
+## 🌎 Contact
 
 <p align="left">
   <a href="https://github.com/GuerreeroDev" target="_blank">
