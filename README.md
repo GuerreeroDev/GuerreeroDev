@@ -2,7 +2,7 @@
 
 # Guerreero
 
-**Web Developer** · Building clean, scalable web experiences
+**Web Developer** · Building the future line by line.
 
 [![GitHub](https://img.shields.io/badge/GitHub-GuerreeroDev-181717?style=flat-square&logo=github)](https://github.com/GuerreeroDev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-GuerreeroDev-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/GuerreeroDev)
