@@ -34,16 +34,6 @@ Frontend-focused developer with a passion for building interfaces that are fast,
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuerreeroDev&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 *Open to collaborations and interesting projects.*
