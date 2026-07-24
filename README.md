@@ -1,6 +1,6 @@
 <div align="center">
 
-# Guerreero
+# Guerrero
 
 **Web Developer** · Building the future line by line.
 
