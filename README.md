@@ -16,7 +16,7 @@
 
 Frontend-focused developer with a passion for building interfaces that are fast, accessible, and easy to maintain. Currently exploring modern web architectures and pushing my craft further with every project.
 
-- Working on new projects — always something in progress
+- Working on new projects - always something in progress
 - Deepening expertise in modern web technologies and best practices
 - Strong believer in clean code and scalable architecture
 
