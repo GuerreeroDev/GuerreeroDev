@@ -2,11 +2,13 @@
 
 # Guerrero
 
-**Web Developer** · Building the future line by line.
+**Frontend Developer**
 
-[![GitHub](https://img.shields.io/badge/GitHub-GuerreeroDev-181717?style=flat-square&logo=github)](https://github.com/GuerreeroDev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-GuerreeroDev-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/GuerreeroDev)
-[![Email](https://img.shields.io/badge/guerreerodev@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:guerreerodev@gmail.com)
+I design and build fast, accessible and maintainable web interfaces.
+
+<br />
+
+[GitHub](https://github.com/GuerreeroDev) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/GuerreeroDev) &nbsp;·&nbsp; [Email](mailto:guerreerodev@gmail.com)
 
 </div>
 
@@ -14,30 +16,53 @@
 
 ## About
 
-Frontend-focused developer with a passion for building interfaces that are fast, accessible, and easy to maintain. Currently exploring modern web architectures and pushing my craft further with every project.
+Frontend developer focused on the details that make a product feel solid: performance, accessibility and clean, scalable code. I care about components that are easy to reuse and codebases that are easy to maintain.
 
-- Working on new projects - always something in progress
-- Deepening expertise in modern web technologies and best practices
-- Strong believer in clean code and scalable architecture
+I'm currently working on **[current project]** and deepening my knowledge of **[TypeScript / Next.js / testing]**.
+
+---
+
+## Focus Areas
+
+| | |
+|---|---|
+| **Interface Development** | Responsive, component-driven UIs built with React and Tailwind CSS |
+| **Performance** | Optimized bundles, lazy loading and strong Core Web Vitals |
+| **Accessibility** | Semantic markup, keyboard navigation and WCAG-aware design |
+| **Architecture** | Scalable folder structure, reusable components and clean code |
 
 ---
 
 ## Tech Stack
 
-**Frontend**
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite&perline=6" alt="Frontend technologies" />
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,npm,vscode&perline=5" alt="Tools" />
+
+</div>
+
+**Frontend:** HTML5, CSS3, JavaScript, React, Tailwind CSS, Vite
+**Tools:** Git, GitHub, Figma, npm, VS Code
+**Exploring:** TypeScript, Next.js
 
 ---
 
-<div align="center">
+## Selected Work
 
-*Open to collaborations and interesting projects.*
-**guerreerodev@gmail.com**
+| Project | Description | Stack |
+|---|---|---|
+| [**Project One**](https://github.com/GuerreeroDev/project-one) | A concise sentence on what it does and the problem it solves. [Live demo](https://example.com) | React, Tailwind, Vite |
+| [**Project Two**](https://github.com/GuerreeroDev/project-two) | A concise sentence on what it does and the problem it solves. [Live demo](https://example.com) | JavaScript, CSS |
+| [**Project Three**](https://github.com/GuerreeroDev/project-three) | A concise sentence on what it does and the problem it solves. [Live demo](https://example.com) | React, Vite |
 
-</div>
+---
+
+## Contact
+
+Open to collaborations, freelance work and new opportunities.
+
+**guerreerodev@gmail.com** &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/GuerreeroDev)
